@@ -1,0 +1,65 @@
+{
+  "101": {
+    "itemType": "food",
+    "name": "Margherita Pizza",
+    "description": "Tomato base, mozzarella, basil.",
+    "price": 8.5,
+    "servingSize": "12 inch"
+  },
+  "102": {
+    "itemType": "food",
+    "name": "Pepperoni Pizza",
+    "description": "Tomato base, mozzarella, pepperoni.",
+    "price": 9.5,
+    "servingSize": "12 inch"
+  },
+  "103": {
+    "itemType": "food",
+    "name": "Chicken Wrap",
+    "description": "Grilled chicken, salad, house sauce.",
+    "price": 6.75,
+    "servingSize": "1 wrap"
+  },
+  "104": {
+    "itemType": "food",
+    "name": "Veggie Wrap",
+    "description": "Mixed veg, salad, hummus.",
+    "price": 6.25,
+    "servingSize": "1 wrap"
+  },
+  "105": {
+    "itemType": "food",
+    "name": "Loaded Fries",
+    "description": "Fries topped with cheese and bacon.",
+    "price": 5.25,
+    "servingSize": "Regular"
+  },
+  "106": {
+    "itemType": "food",
+    "name": "Caesar Salad",
+    "description": "Romaine, croutons, parmesan, Caesar dressing.",
+    "price": 5.95,
+    "servingSize": "Large"
+  },
+  "201": {
+    "itemType": "drink",
+    "name": "Still Water",
+    "description": "Bottled still water.",
+    "price": 1.5,
+    "volume": "500 ml"
+  },
+  "202": {
+    "itemType": "drink",
+    "name": "Sparkling Water",
+    "description": "Bottled sparkling water.",
+    "price": 1.75,
+    "volume": "500 ml"
+  },
+  "203": {
+    "itemType": "drink",
+    "name": "Cola",
+    "description": "Classic cola.",
+    "price": 2.0,
+    "volume": "330 ml"
+  }
+}

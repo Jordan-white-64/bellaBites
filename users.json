@@ -1,0 +1,30 @@
+{
+  "sarah.campbell@example.com": {
+    "fullName": "Sarah Campbell",
+    "password": "password123",
+    "userType": "customer",
+    "custId": 1,
+    "phoneNo": "07700 900123",
+    "address": "12 Byres Road, Glasgow, G12 8AA"
+  },
+  "liam.reid@example.com": {
+    "fullName": "Liam Reid",
+    "password": "password123",
+    "userType": "customer",
+    "custId": 2,
+    "phoneNo": "07700 900456",
+    "address": "45 Sauchiehall Street, Glasgow, G2 3AT"
+  },
+  "a1001": {
+    "fullName": "Anna McGowan",
+    "password": "admin123",
+    "userType": "staff",
+    "staffId": "A1001"
+  },
+  "a1002": {
+    "fullName": "Derek Smith",
+    "password": "admin123",
+    "userType": "staff",
+    "staffId": "A1002"
+  }
+}
